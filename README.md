@@ -29,7 +29,8 @@ This is a simple Tribute Page created as part of a freeCodeCamp course on Respon
 ### Usage
 
 1. Open the `index.html` file in your preferred web browser to view the Tribute Page.
-2. Explore the information presented about Magnus Carlsen and his chess career.
+2. Alternatively, you can access the live site [here](https://abelgideon.github.io/Tribute-Page/).
+3. Explore the information presented about Magnus Carlsen and his chess career.
 
 ### File Structure
 
